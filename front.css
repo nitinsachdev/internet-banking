@@ -281,17 +281,17 @@ marquee
 }
 label
 {
-    font-family: cursive;
-    font-size: 20px;
+   font-family: cursive;
+   font-size: 20px;
 }
 .form-control {
+  
   display: block;
   width: 80%;
   height: 30px;
   padding: 0px;
   font-size: 14px;
-  
-    color: #555555;
+  color: #555555;
   background-color: #ffffff;
   background-image: none;
   border: 1px solid black;
