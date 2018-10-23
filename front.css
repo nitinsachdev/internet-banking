@@ -60,12 +60,10 @@ header
 
 
 #menu{
-
     list-style-type: none;
     margin: 0px;
     padding: 0px;
-   overflow: hidden;
-   
+    overflow: hidden;
     clear: both;
     
 }
@@ -79,12 +77,9 @@ header
     padding: 10px 17px;
     float: right;
     margin-bottom: 10px;
-
     border-right: 2px solid black;
    
-    
-    
-}
+ }
 .signup
 {
     width: 10%;
@@ -93,7 +88,7 @@ header
     position: relative;
     bottom: 140px;
     right: 140px;
-     -moz-transform:scale(0.3);
+    -moz-transform:scale(0.3);
     -webkit-transform:scale(0.3);
     transform:scale(0.3);
     
