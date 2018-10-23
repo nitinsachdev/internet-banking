@@ -131,20 +131,17 @@ header
 
 .but
 {
-   
-    cursor: pointer;
-   
-    margin: 8px;
-    height: 40px;
-    width: 80px;
-    border-radius: 10px;
+   cursor: pointer;
+   margin: 8px;
+   height: 40px;
+   width: 80px;
+   border-radius: 10px;
 }
 
 span
 {
     float: right;
-    
-}
+ }
 .box2{
     position: relative;
    bottom: 350px;
