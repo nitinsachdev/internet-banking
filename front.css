@@ -249,12 +249,9 @@ footer div{
     top: 25%;
     margin-right: 0.2%;
     margin-bottom: 1%;
-
-   
 }
 marquee
 {
-    
     background-color: ivory;
     color: black;
     width: 100%;
@@ -264,9 +261,6 @@ marquee
     border:2px solid lightgrey;
     border-radius: 0.5em;
     padding: 0.2%;
-    
-   
- 
 }
 
 .cover
